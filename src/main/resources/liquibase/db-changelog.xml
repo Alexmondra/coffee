@@ -9,7 +9,8 @@
 
 
 
-     <include file="liquibase/20230426-162500-create_tables-and-foreignKey.sql"></include> 
+     <include file="liquibase/20230426-162500-create_tables-and-foreignKey.sql"></include>
+     <include file="liquibase/20230516-0107-modifica.sql"></include>
                  
 
 	
